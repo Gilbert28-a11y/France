@@ -4,10 +4,23 @@
 <tittle>
 France
 <tittle>
-<body>
-<h1>
+<body bgcolor=0538B6>
+<p align=center>
+<img src=images.png>
+</p>
+<h1 allign=centers>
 France 
 <h1>
 <hr>
+<h2>
+culture
+<h2><iframe width="560" height="315" src="https://www.youtube.com/embed/mu7T6y-tvMs?si=hcTv0mUm-L6XWrZ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</h2>
+Food
+<h2><iframe width="560" height="315" src="https://www.youtube.com/embed/r-gv0sry-_Y?si=DKD4wz1_ICQRkvEu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>
+landmarks
+</h2><iframe width="560" height="315" src="https://www.youtube.com/embed/w58E_y_A0Bg?si=IqxYRD6zOi9vnp3O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <body>
 <heads>
+<html>
